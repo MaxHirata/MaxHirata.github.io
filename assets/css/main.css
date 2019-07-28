@@ -2245,6 +2245,11 @@ input, select, textarea {
 				background-size: cover;
 				background-position: center center;
 			}
+			
+			#resume_body {
+				width: 40em;
+				height: 51.7em;
+			} 
 
 			#main > section.one {
 				background-color: #81918E;
@@ -2261,6 +2266,10 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
+			}
+
+			#main > section.resume {
+				background-color: darkgrey;
 			}
 
 /* Wide */
